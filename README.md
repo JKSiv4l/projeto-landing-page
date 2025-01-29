@@ -1,5 +1,5 @@
 # RID: #181510_projeto-landing-page
-primeiro projeto do modulo 1 do curso da escola dnc
+primeiro desafio do curso da escola dnc
 
 link do site: https://primeirodesafiodnc1.netlify.app
 
